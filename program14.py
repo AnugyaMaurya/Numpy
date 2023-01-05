@@ -11,3 +11,5 @@ g = gfg.mean()
 print(g)
 print("var of arr : ", np.var(gfg)) 
 print("std of arr : ", np.std(arr))
+print("Using nanmean function:", np.nanmean(arr))
+
